@@ -1,0 +1,71 @@
+#scroll-text {
+  position: fixed;
+  top: 25px;
+  left: 25px;
+}
+
+#resize-text {
+  position: fixed;
+  top: 5px;
+  left: 25px;
+}
+
+#click-text {
+  position: fixed;
+  top: 25px;
+  right: 25px;
+}
+
+#click-text-clear {
+  position: fixed;
+  top: 55px;
+  right: 25px;
+}
+
+.selectedImg {
+  border: 1px solid red;
+}
+
+.someDiv {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.positionDiv {
+  left: 50%;
+  margin-left: -383.9px;
+  top: 221px;
+  position: fixed;
+}
+
+#div1 {
+  background-color: blue;
+}
+
+#div2 {
+  background-color: green;
+}
+
+#div3 {
+  background-color: yellow;
+}
+
+#div4 {
+  background-color: black;
+}
+
+#div5 {
+  background-color: orange;
+}
+
+#viewDiv {
+  left: 50%;
+  margin-left: -111px;
+  top: 15px;
+  height: 203px;
+  position: fixed;
+  width: 222px;
+  opacity: 0;
+}
